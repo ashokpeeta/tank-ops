@@ -30,5 +30,7 @@ go run .
 
 3. Open your browser on `127.0.0.1:8000`
 
-https://www.redblobgames.com/grids/hexagons/
-https://www.youtube.com/watch?v=LBbVEqTPlzI
+###references:
+
+- https://www.youtube.com/watch?v=LBbVEqTPlzI
+- https://www.redblobgames.com/grids/hexagons/
